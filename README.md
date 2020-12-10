@@ -1,5 +1,6 @@
 # home
 
+![](aout2-zh.jpeg)
 
 ---
 
