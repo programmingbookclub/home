@@ -1,3 +1,9 @@
+---
+members: all
+duration(mins): 65
+next: 12/16 20:00
+---
+
 # Meet up 01: 2020-12-09
 
 第一次聚會的日期是 12月9日晚上八點
@@ -42,3 +48,6 @@ https://academy.essentialdeveloper.com/
   https://www.dotblogs.com.tw/hatelove/2013/01/11/learning-tdd-in-30-days-catalog-and-reference
 - 《單元測試的藝術》學習筆記 by sunnyleeyun
   https://www.coderbridge.com/series/89e2405766bc423b965adcdd4af244a0
+
+
+--- 
