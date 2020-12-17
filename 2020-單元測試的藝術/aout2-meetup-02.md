@@ -1,8 +1,4 @@
----
- members:  @ytyubox, @louis222220, @gannasong @nukr, @RaphaHsu, @aa08666, @WangWang0226, @sonorous-lester, @ishida624
- duration(mins): 60 min
- next: 
----
+
  
 | 章節 | 領養人 | 日期 |
  | -------- | -------- | -------- |
@@ -78,6 +74,9 @@ Chapter 2 第一個單元測試
 
  ---
  <- 以下為聚會紀錄 ->
+ 
+members:  @ytyubox, @louis222220, @gannasong @nukr, @RaphaHsu, @aa08666, @WangWang0226, @sonorous-lester, @ishida624
+duration(mins): 60 min
 
 本次主講人的筆記
 Ch. 1
