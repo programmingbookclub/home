@@ -2,7 +2,7 @@
  members:  @ytyubox, @louis222220, @gannasong @nukr, @RaphaHsu, @aa08666, @WangWang0226, @sonorous-lester, @ishida624
  duration(mins): 60 min
  next: 
- ---
+---
  
 | 章節 | 領養人 | 日期 |
  | -------- | -------- | -------- |
