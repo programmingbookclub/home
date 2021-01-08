@@ -1,9 +1,21 @@
  # 單元測試的藝術 Meet up 05: 2021-01-06
 
 第三次聚會的日期是 01月06日晚上八點
+
 主講人： Chapter 6 深入了解隔離框架  by @louis222220
 
 這次的聚會有時長 35 分鐘以上的小組討論
+
+<- 以下為聚會紀錄 ->
+
+[筆記整理](https://www.notion.so/Ch-6-6d05a3ab5d2f4b45850514b3db5f0bfd)
+幾個不太懂的地方以 Comment 標註
+
+<- Retrospect ->
+
+- 如果覺得看不懂、有什麼想問討論的，可以在 Telegram 上發問
+- 有範例會比較容易懂
+
 
 分為 2 組
 1. JavaScript 組：Ralph、羅韋(Luo Wei)、Louis、Gill、Pual
