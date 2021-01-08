@@ -6,6 +6,17 @@
 
 這次的聚會有時長 35 分鐘以上的小組討論
 
+<- 以下為聚會紀錄 ->
+
+[筆記整理](https://www.notion.so/Ch-6-6d05a3ab5d2f4b45850514b3db5f0bfd)
+幾個不太懂的地方以 Comment 標註
+
+<- Retrospect ->
+
+- 如果覺得看不懂、有什麼想問討論的，可以在 Telegram 上發問
+- 有範例會比較容易懂
+
+
 分為 2 組
 1. JavaScript 組：Ralph、羅韋(Luo Wei)、Louis、Gill、Pual
 2. Swift 組： Yu、Jerry、Miguel、Wang、Lester
