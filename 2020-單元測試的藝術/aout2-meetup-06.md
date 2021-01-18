@@ -45,4 +45,4 @@ Chapter 7 測試階層和組織
 
  ---
  <- 以下為聚會紀錄 ->
- 
+報告連結：  https://hackmd.io/aq8V4QtsQC2Ov6rdVRnppg
