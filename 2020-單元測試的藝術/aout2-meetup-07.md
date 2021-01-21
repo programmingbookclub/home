@@ -41,3 +41,47 @@ Chapter 8 好的單元測試的支柱
 
  ---
  <- 以下為聚會紀錄 ->
+ @ytyubox
+  
+Member
+Author
+ytyubox commented 21 hours ago • 
+edited 
+你下午8:06
+8.1.1 過時的測試程式碼
+https://www.notion.so/ca9038cfbdc14738b2236f9fd57d429c
+你下午8:13
+8.1.1 AutoFixtrue 跳過了
+你下午8:14
+8.1.1 5&6 不是必須的
+你下午8:16
+8.1.1 重覆測試的優缺點
+你下午8:17
+測試的程式碼太多重複而難以理解
+你下午8:19
+再小的邏輯都還是邏輯 是思考誤區
+你下午8:21
+8.1.3 每次只測試一個關注點
+實驗組和對照組
+你下午8:26
+8.1.5 codecov.io 我自己實際使用下來是可以看到重構後沒有用到的code
+Ralph Hsu下午8:29
+js 我用 wallaby
+https://dev.to/beggars/level-up-your-front-end-testing-game-with-wallaby-js-3ona
+Ralph Hsu下午8:38
+SetUp 相當於 jest 的 beforeEach & afterEach
+你下午8:46
+tearDownArray 在 fn tearDown() 做
+for method in tearDownArrary {
+method()
+}
+你下午8:47
+tearDownArray 是 Array of callback
+Ralph Hsu下午8:48
+缺乏測試可靠度
+你下午8:58
+常見的精準的匹配器 ==、Array相等
+不精準的匹配器 >= 、Set、Contain、hasPrefix
+你下午9:01
+Custom Assertion Failure message
+主要是給 log 檔案，可以當作註解
