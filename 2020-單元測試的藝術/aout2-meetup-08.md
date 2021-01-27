@@ -53,3 +53,42 @@ Chapter 9 在組織中導入單元測試
 
   ---
   <- 以下為聚會紀錄 ->
+
+
+
+* 232 9.1.1 準備好面對各種質疑：如果你能夠回答自己提出的難題，應該也能回答別人的質疑
+* 233 反對者 - 如果你去找這些人，高談闊論哪些事情他們應該可以做得更好，通常是不會有效果的。人們不喜歡別人告訴* 他們有哪些事情做得不好。相反，你可以請這些人在過程中提供幫助。
+* 233 9.1.3 可能的切入點：4點條列
+* 237 9.2.4 讓進度可見：9-1 圖
+* 238 9.2.4 讓進度可見：向兩個族群傳達訊息
+* 239 設定具體目標 - 提高程式碼覆蓋率並不能解決所有問題。你可以很容易地用無意義的糟糕測試來達到 100 % 程式* 碼覆蓋率。
+* 240 減少重複出現的 bug 和 降低修復 bug 的平均時間
+* 241 9.2.6 應對阻礙 ：Tottinge 推文 
+* 242 9.3.3 糟糕的實現和第一印象
+* 243 六個影響因素，理解為什麼事情不如計畫般的進行。
+* 244 9.5 質疑與問答：條列出對自己的質疑
+* 246 表 9-1 進行和不進行單元測試的團隊，其進度和產出數據。
+* 247 9.5.4 證明單元測試確實有效的方法: 😭書上的連結失效
+* 248 9.5.6 我們有大量未經測試的程式碼，應該從哪裡開始
+
+
+---
+
+issue tracker 要有可以追蹤的指標, 來向經理證明導入 unit test 有效.
+1. 減少回歸,
+2.  減少 fix 需要的 time 
+3.   crash free rate
+
+
+## 閱讀清單
+1. 單元測試正夯，但你知道其實還有更多選擇嗎？- Vincent Ke https://progressbar.tw/posts/72
+2. 將自動化測試引入無經驗團隊的第一步 Devin Deving https://devindeving.blogspot.com/2020/03/first-step-of-introducing-auto-testing-to-inexperienced-team.html
+3. 筆記 - 自動化測試與 TDD 實務開發 兩大類的部落格 https://marco79423.net/articles/筆記-自動化測試與-tdd-實務開發/
+4. 為了推動自動化測試，你付出了多少？- Zen K.C. https://www.slideshare.net/oreo0725/ss-205850683
+5. How to get your team to start unit testing Mattias Petter Johansson https://medium.com/humans-create-software/how-to-get-your-team-to-start-unit-testing-d45417d53667
+6. I think the best approach to introduce unit tests is to just write them. - Robert Gummesson  https://medium.com/@RobertGummesson/i-think-the-best-approach-to-introduce-unit-tests-is-to-just-write-them-18e9bf8ddfd2
+7. Unit testing newbie team needs to unit test
+ https://softwareengineering.stackexchange.com/questions/10849/unit-testing-newbie-team-needs-to-unit-test
+8. So.. I need to train the team on Unit Testing - could use C&C on lesson plan
+ https://stackoverflow.com/questions/1891466/so-i-need-to-train-the-team-on-unit-testing-could-use-cc-on-lesson-plan
+9. TDD 0 to 60: How to Introduce TDD to Your Team With No Unit Testing Experience - Ryan Hayes https://ryanhayes.net/how-to-introduce-tdd-to-your-team-with-no-unit-testing-experience/
