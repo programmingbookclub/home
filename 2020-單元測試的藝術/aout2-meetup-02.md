@@ -82,6 +82,8 @@ duration(mins): 60 min
 Ch. 1
 https://www.notion.so/30720e8158fe43ec832acbc9390b3136
 
+關於 ch 1 提到的孤立型/社交型，目前還沒找到原文，游諭猜是這個 https://martinfowler.com/bliki/UnitTest.html
+
 Ch. 2
 https://hackmd.io/et8uf_FPQcGPe71arW-kug
 
